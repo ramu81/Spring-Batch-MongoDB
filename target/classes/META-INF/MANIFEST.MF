@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: chinna-spring-batch-mongodb
+Implementation-Version: 0.0.1
+Built-By: rakondapalli
+Implementation-Vendor-Id: edu.chinna
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/chinna-sprin
+ g-batch-mongodb/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
